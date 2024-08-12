@@ -4,7 +4,7 @@ Now develop webapps mostly using JavaScript and TypeScript.
 
 📫You can always contact me via email [cygapb@gmail.com](mailto:cygapb@gmail.com?subject=[GitHub]%20profile)
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,gradle,jenkins,aws,azure,googlecloud,javascript,typescript,react,vue,angular,vite,nodejs,expressjs,nestjs,graphql,docker,mysql,mongodb,vscode,eclipse,webpack,regex,git,jest,bitbucket,scss&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,gradle,jenkins,aws,azure,googlecloud,javascript,typescript,react,vue,angular,vite,nodejs,expressjs,nestjs,graphql,hibernate,docker,mysql,mongodb,vscode,eclipse,webpack,regex,git,jest,bitbucket,scss&perline=6)](https://skillicons.dev)
 
 Here are some technologies I use in my stack:
 Java, SpringBoot, JavaScript, TypeScript, React, Redux+RTK, Angular, Gradle, Git, CSS, CSS Modules, Vite, Jest, Cypress, Jupiter, Junit, Docker, AWS, Azure, Google Cloud, SQL, Jenkins, MongoDB, SASS, Tailwindcss, Emotion, GitHib actions, NextJS, GraphQL, ExpressJS, Knex, NestJS, Webpack/Babel, RegEx, JSDoc, JavaDoc, Jira, CLI(bash), Storybook, Figma.
