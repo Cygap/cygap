@@ -7,11 +7,8 @@ Now develop webapps mostly using JavaScript and TypeScript.
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,googlecloud,javascript,typescript,react,vue,angular,vite,nodejs,expressjs,nestjs,graphql,docker,mysql,mongodb,vscode,webpack,regex,git,jest,scss&perline=6)](https://skillicons.dev)
 
 Here are some technologies I use in my stack:
-JavaScript, TypeScript, React, Redux+RTK, Git, CSS, CSS Modules, Vite, Jest, Cypress, React native, Docker, AWS, Azure, Google Cloud, SQL, MongoDB, SASS, Tailwindcss, Emotion, GitHib actions, NextJS, GraphQL, ExpressJS, Knex, NestJS, Webpack/Babel, RegEx, JSDoc, Jira, CLI(bash), Storybook, Figma.
+Java, SpringBoot, JavaScript, TypeScript, React, Redux+RTK, Angular, Gradle, Git, CSS, CSS Modules, Vite, Jest, Cypress, Jupiter, Junit, Docker, AWS, Azure, Google Cloud, SQL, Jenkins, MongoDB, SASS, Tailwindcss, Emotion, GitHib actions, NextJS, GraphQL, ExpressJS, Knex, NestJS, Webpack/Babel, RegEx, JSDoc, JavaDoc, Jira, CLI(bash), Storybook, Figma.
 
-🌱 I'm also actively playing with angular and c#/.net these days...
-
-![Codewars](https://www.codewars.com/users/Cygapb/badges/micro)
 <!--
 **Cygap/Cygap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
