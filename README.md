@@ -1,8 +1,8 @@
 ### Hi there 👋
-I happen to be well-versed in project management and have a track record of managing successful IT projects, including the implementation of corporate-wide ERP and new workflows on K2 for MS SharePoint. Writing technical documentation, setting-up CI/CD, using Agile methodologies are also a part of my undertakings. 
-Now develop webapps mostly using JavaScript and TypeScript. 
+I happen to be well-versed in project management and have a track record of managing successful IT projects, including the implementation of corporate-wide ERP and Customs integrations for Nordic countries. Writing technical documentation, setting-up CI/CD, using Agile methodologies are also a part of my undertakings. 
+Now develop apps with JAVA/SpringBoot, JavaScript and TypeScript. 
 
-📫You can always contact me via email [cygapb@gmail.com](mailto:cygapb@gmail.com?subject=[GitHub]%20profile)
+📫You can always contact me via email [alexander.sudarikov@yahoo.com](mailto:alexander.sudarikov@yahoo.com?subject=[GitHub]%20profile)
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,gradle,jenkins,aws,azure,googlecloud,javascript,typescript,react,vue,angular,vite,nodejs,expressjs,nestjs,graphql,hibernate,docker,mysql,mongodb,vscode,eclipse,webpack,regex,git,jest,bitbucket,scss&perline=6)](https://skillicons.dev)
 
